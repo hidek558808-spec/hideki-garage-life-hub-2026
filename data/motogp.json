@@ -1,0 +1,14 @@
+{
+  "updated": "2026-09-16",
+  "note": "MotoGP公式カレンダー基準。開催週の詳細競技時刻・G+放送時刻は確認できたものから更新",
+  "events": [
+    {"date":"2026.9.18–20","gp":"オーストリアGP","session":"開催週","start_jst":"確認中","broadcast":"G+ 確認中","highlight":false},
+    {"date":"2026.10.2–4","gp":"日本GP","session":"開催週","start_jst":"確認中","broadcast":"G+ 確認中","highlight":false},
+    {"date":"2026.10.9–11","gp":"インドネシアGP","session":"開催週","start_jst":"確認中","broadcast":"G+ 確認中","highlight":false},
+    {"date":"2026.10.22–25","gp":"オーストラリアGP","session":"開催週","start_jst":"確認中","broadcast":"G+ 確認中","highlight":false},
+    {"date":"2026.10.30–11.1","gp":"マレーシアGP","session":"開催週","start_jst":"確認中","broadcast":"G+ 確認中","highlight":false},
+    {"date":"2026.11.6–8","gp":"カタールGP","session":"開催週","start_jst":"確認中","broadcast":"G+ 確認中","highlight":false},
+    {"date":"2026.11.20–22","gp":"ポルトガルGP","session":"開催週","start_jst":"確認中","broadcast":"G+ 確認中","highlight":false},
+    {"date":"2026.11.27–29","gp":"バレンシアGP","session":"開催週","start_jst":"確認中","broadcast":"G+ 確認中","highlight":false}
+  ]
+}
