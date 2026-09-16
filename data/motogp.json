@@ -1,8 +1,10 @@
 {
-  "updated": "2026-09-16",
-  "note": "MotoGP公式カレンダー基準。開催週の詳細競技時刻・G+放送時刻は確認できたものから更新",
+  "updated": "2026-09-16 11:05 JST",
+  "note": "MotoGP公式カレンダー＋日テレG+公式放送予定を確認。競技開始時刻は公式詳細で未確認のため推測せず、放送開始のみ確定表示。",
   "events": [
-    {"date":"2026.9.18–20","gp":"オーストリアGP","session":"開催週","start_jst":"確認中","broadcast":"G+ 確認中","highlight":false},
+    {"date":"2026.9.18","gp":"オーストリアGP","session":"金曜午後プラクティス","start_jst":"確認中","broadcast":"日テレG+公式YouTube 20:10〜（現場音声のみ）","highlight":false},
+    {"date":"2026.9.19","gp":"オーストリアGP","session":"全クラス予選＆MotoGPスプリント決勝","start_jst":"確認中","broadcast":"日テレG+ 17:45〜 生中継 ※野球延長時変更あり","highlight":true},
+    {"date":"2026.9.20","gp":"オーストリアGP","session":"全クラス決勝","start_jst":"確認中","broadcast":"日テレG+ 17:45〜 生中継","highlight":true},
     {"date":"2026.10.2–4","gp":"日本GP","session":"開催週","start_jst":"確認中","broadcast":"G+ 確認中","highlight":false},
     {"date":"2026.10.9–11","gp":"インドネシアGP","session":"開催週","start_jst":"確認中","broadcast":"G+ 確認中","highlight":false},
     {"date":"2026.10.22–25","gp":"オーストラリアGP","session":"開催週","start_jst":"確認中","broadcast":"G+ 確認中","highlight":false},
